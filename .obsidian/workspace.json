@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "f4a60637fd439c26",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d4b7c56fcf42620",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dea91524bf328625",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meal Plan/06-03-23 to 12-03-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0106553c5859516e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e494294907633d91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df9cd2efdfd9050e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c6c986aecc58bf01",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "35afd76679b06e44",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b2334f065b64775e",
+    "type": "split",
+    "children": [
+      {
+        "id": "38b2ed27fa1fb7ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36bd12a33a76eb40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Meal Plan/06-03-23 to 12-03-23.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6be9e97d782c9f74",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Meal Plan/06-03-23 to 12-03-23.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1157fe88a809a8b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "49fef7d10e842ea7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Meal Plan/06-03-23 to 12-03-23.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dea91524bf328625",
+  "lastOpenFiles": [
+    "Recipe Map.canvas",
+    "Dinners/Tomato+Mozz Linguine/Recipe.md",
+    "Dinners/Paella/Recipe.md",
+    "Dinners/Lemon Pasta/Recipe.md",
+    "Dinners/Bibimbap/Recipe.md",
+    "Dinners/Bibimbap/Ingredients.md",
+    "Dinners/Bibimbap/ImageToAdd.md",
+    "Meal Plan/06-03-23 to 12-03-23.md",
+    "Dinners/Paella/Ingredients.md",
+    "Dinners/Paella/ImageToAdd.md",
+    "Dinners/Paella",
+    "Dinners/Tomato+Mozz Linguine/Ingredients.md",
+    "Dinners/Tomato+Mozz Linguine/ImageToAdd.md",
+    "Dinners/Tomato+Mozz Linguine",
+    "Dinners/Untitled.md",
+    "Dinners/Lemon Pasta/Ingredients.md",
+    "Dinners/Bibimbap",
+    "Meal Plan",
+    "Dinners/Lemon Pasta/ImageToAdd.md",
+    "Dinners/Lemon Pasta/ImageToAdd.jpg",
+    "Dinners/Lemon Pasta/Untitled.canvas",
+    "Lemon Pasta/Page2.png",
+    "Dinners",
+    "Lemon Pasta/Page1.png"
+  ]
+}

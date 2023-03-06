@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"85845ebf710f9f00","x":2175,"y":-1025,"width":400,"height":400,"type":"file","file":"Dinners/Paella/Ingredients.md"},
+		{"type":"file","file":"Dinners/Bibimbap/Ingredients.md","id":"8bb85a1d9f91269c","x":2098,"y":-1481,"width":302,"height":400},
+		{"type":"text","text":"Ideas","id":"b88571cb1e0ba647","x":520,"y":-600,"width":250,"height":60},
+		{"type":"text","text":"Dinners","id":"532e8edcf99e9161","x":770,"y":-960,"width":250,"height":60},
+		{"type":"file","file":"Dinners/Lemon Pasta/ImageToAdd.md","id":"1494b8f2c30bf916","x":1160,"y":-1320,"width":255,"height":50},
+		{"type":"file","file":"Dinners/Lemon Pasta/Ingredients.md","id":"394909099a321d6f","x":1400,"y":-1720,"width":280,"height":280},
+		{"type":"text","text":"Breakfasts","id":"1f27ad2b73e8e8f0","x":645,"y":-240,"width":250,"height":60},
+		{"type":"text","text":"Snacks","id":"4f627e8d72443a04","x":-120,"y":-480,"width":250,"height":60},
+		{"type":"text","text":"Baking","id":"ec5c645afd717baf","x":130,"y":-840,"width":250,"height":60},
+		{"type":"text","text":"Lunches","id":"9473a91830ef2c0d","x":1290,"y":-510,"width":250,"height":60},
+		{"type":"file","file":"Dinners/Bibimbap/ImageToAdd.md","id":"7a430d7046feae1f","x":1560,"y":-1120,"width":304,"height":70},
+		{"type":"file","file":"Dinners/Tomato+Mozz Linguine/ImageToAdd.md","id":"6d55a2f6e8080dd6","x":715,"y":-1293,"width":305,"height":50},
+		{"type":"file","file":"Dinners/Tomato+Mozz Linguine/Ingredients.md","id":"faeddf516f88633a","x":770,"y":-1799,"width":250,"height":318},
+		{"id":"425e30f69f13ed8d","x":1680,"y":-866,"width":309,"height":86,"type":"file","file":"Dinners/Paella/ImageToAdd.md"}
+	],
+	"edges":[
+		{"id":"cc8c1d0b947d2bd3","fromNode":"b88571cb1e0ba647","fromSide":"top","toNode":"532e8edcf99e9161","toSide":"bottom"},
+		{"id":"fbfedc86b5fc5e35","fromNode":"532e8edcf99e9161","fromSide":"top","toNode":"1494b8f2c30bf916","toSide":"bottom"},
+		{"id":"721f00a863eb921c","fromNode":"1494b8f2c30bf916","fromSide":"top","toNode":"394909099a321d6f","toSide":"left"},
+		{"id":"2d0024885c8d939f","fromNode":"b88571cb1e0ba647","fromSide":"right","toNode":"9473a91830ef2c0d","toSide":"left"},
+		{"id":"2a8cb617f9761e12","fromNode":"b88571cb1e0ba647","fromSide":"bottom","toNode":"1f27ad2b73e8e8f0","toSide":"top"},
+		{"id":"ef83800957bb940f","fromNode":"b88571cb1e0ba647","fromSide":"left","toNode":"4f627e8d72443a04","toSide":"right"},
+		{"id":"8c4000e47b84671b","fromNode":"b88571cb1e0ba647","fromSide":"top","toNode":"ec5c645afd717baf","toSide":"bottom"},
+		{"id":"0b8978910610ff2e","fromNode":"532e8edcf99e9161","fromSide":"right","toNode":"7a430d7046feae1f","toSide":"left"},
+		{"id":"7bc7be555968a08a","fromNode":"7a430d7046feae1f","fromSide":"right","toNode":"8bb85a1d9f91269c","toSide":"left"},
+		{"id":"e60a24f07d58fe6a","fromNode":"532e8edcf99e9161","fromSide":"top","toNode":"6d55a2f6e8080dd6","toSide":"bottom"},
+		{"id":"3f0f89b4ca15e4d2","fromNode":"6d55a2f6e8080dd6","fromSide":"top","toNode":"faeddf516f88633a","toSide":"bottom"},
+		{"id":"18e9abe0a956f620","fromNode":"532e8edcf99e9161","fromSide":"right","toNode":"425e30f69f13ed8d","toSide":"left"},
+		{"id":"615bacbfda1bb092","fromNode":"425e30f69f13ed8d","fromSide":"right","toNode":"85845ebf710f9f00","toSide":"left"}
+	]
+}
