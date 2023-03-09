@@ -11,3 +11,5 @@ Stir in the **tomatoes** and season with salt. Tear in the basil leaves and add 
 ## Step 3
 
 Cook the **linguine**, reserving some pasta water. Drain the linguine and add the sauce, rip in half the **mozzarella**. Divide pasta and sprinkle rest of the mozzarella ontop.
+
+![[Image.jpg]]

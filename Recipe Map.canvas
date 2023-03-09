@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"85845ebf710f9f00","x":2175,"y":-1025,"width":400,"height":400,"type":"file","file":"Dinners/Paella/Ingredients.md"},
+		{"type":"file","file":"Dinners/Paella/Ingredients.md","id":"85845ebf710f9f00","x":2175,"y":-1025,"width":400,"height":400},
 		{"type":"file","file":"Dinners/Bibimbap/Ingredients.md","id":"8bb85a1d9f91269c","x":2098,"y":-1481,"width":302,"height":400},
 		{"type":"text","text":"Ideas","id":"b88571cb1e0ba647","x":520,"y":-600,"width":250,"height":60},
 		{"type":"text","text":"Dinners","id":"532e8edcf99e9161","x":770,"y":-960,"width":250,"height":60},
@@ -11,9 +11,9 @@
 		{"type":"text","text":"Baking","id":"ec5c645afd717baf","x":130,"y":-840,"width":250,"height":60},
 		{"type":"text","text":"Lunches","id":"9473a91830ef2c0d","x":1290,"y":-510,"width":250,"height":60},
 		{"type":"file","file":"Dinners/Bibimbap/ImageToAdd.md","id":"7a430d7046feae1f","x":1560,"y":-1120,"width":304,"height":70},
-		{"type":"file","file":"Dinners/Tomato+Mozz Linguine/ImageToAdd.md","id":"6d55a2f6e8080dd6","x":715,"y":-1293,"width":305,"height":50},
 		{"type":"file","file":"Dinners/Tomato+Mozz Linguine/Ingredients.md","id":"faeddf516f88633a","x":770,"y":-1799,"width":250,"height":318},
-		{"id":"425e30f69f13ed8d","x":1680,"y":-866,"width":309,"height":86,"type":"file","file":"Dinners/Paella/ImageToAdd.md"}
+		{"type":"file","file":"Dinners/Paella/ImageToAdd.md","id":"425e30f69f13ed8d","x":1680,"y":-866,"width":309,"height":86},
+		{"type":"file","file":"Dinners/Tomato+Mozz Linguine/Image.jpg","id":"6d55a2f6e8080dd6","x":733,"y":-1378,"width":162,"height":162}
 	],
 	"edges":[
 		{"id":"cc8c1d0b947d2bd3","fromNode":"b88571cb1e0ba647","fromSide":"top","toNode":"532e8edcf99e9161","toSide":"bottom"},

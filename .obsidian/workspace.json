@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5d4b7c56fcf42620",
+        "id": "4549fe03c203d7bb",
         "type": "tabs",
         "children": [
           {
-            "id": "dea91524bf328625",
+            "id": "cf96997e1fcddcd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meal Plan/06-03-23 to 12-03-23.md",
+                "file": "Dinners/Paella/ImageToAdd.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meal Plan/06-03-23 to 12-03-23.md",
+                "file": "Dinners/Paella/ImageToAdd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meal Plan/06-03-23 to 12-03-23.md",
+                "file": "Dinners/Paella/ImageToAdd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meal Plan/06-03-23 to 12-03-23.md"
+                "file": "Dinners/Paella/ImageToAdd.md"
               }
             }
           }
@@ -146,27 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dea91524bf328625",
+  "active": "cf96997e1fcddcd7",
   "lastOpenFiles": [
-    "Recipe Map.canvas",
-    "Dinners/Tomato+Mozz Linguine/Recipe.md",
     "Dinners/Paella/Recipe.md",
+    "Dinners/Tofu and Harissa Orzo/Recipe.md",
+    "Dinners/Tofu and Harissa Orzo/Ingredients.md",
+    "Dinners/Lemon Pasta/Ingredients.md",
+    "Dinners/Tofu and Harissa Orzo/ImageToAdd.md",
     "Dinners/Lemon Pasta/Recipe.md",
+    "Dinners/Lemon Pasta/ImageToAdd.md",
     "Dinners/Bibimbap/Recipe.md",
-    "Dinners/Bibimbap/Ingredients.md",
+    "Recipe Map.canvas",
     "Dinners/Bibimbap/ImageToAdd.md",
+    "Dinners/Bibimbap/Ingredients.md",
+    "Dinners/Tomato+Mozz Linguine/Recipe.md",
+    "Dinners/Tofu and Harissa Orzo",
+    "Ima.md",
+    "README.md",
+    "Dinners/Tomato+Mozz Linguine/ImageToAdd.md",
+    "Dinners/Tomato+Mozz Linguine/Image.jpg",
     "Meal Plan/06-03-23 to 12-03-23.md",
     "Dinners/Paella/Ingredients.md",
     "Dinners/Paella/ImageToAdd.md",
     "Dinners/Paella",
     "Dinners/Tomato+Mozz Linguine/Ingredients.md",
-    "Dinners/Tomato+Mozz Linguine/ImageToAdd.md",
     "Dinners/Tomato+Mozz Linguine",
     "Dinners/Untitled.md",
-    "Dinners/Lemon Pasta/Ingredients.md",
     "Dinners/Bibimbap",
     "Meal Plan",
-    "Dinners/Lemon Pasta/ImageToAdd.md",
     "Dinners/Lemon Pasta/ImageToAdd.jpg",
     "Dinners/Lemon Pasta/Untitled.canvas",
     "Lemon Pasta/Page2.png",
